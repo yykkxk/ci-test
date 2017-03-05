@@ -1,0 +1,4 @@
+[root]
+name = "ci-test"
+version = "0.1.0"
+
